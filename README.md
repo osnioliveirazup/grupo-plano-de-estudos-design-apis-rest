@@ -12,7 +12,7 @@ A ideia é que ao fim dessa jornada de aprendizaddo você se sinta (mais) confor
 
 Não se preocupe, que é aqui que vamos te ajudar!
 
-Você é livre para acessar o [plano de estudos]() completo, existente neste repositório e consumí-lo como achar conveniente e, claro, seguindo seu próprio ritmo de estudos. Tanto é que você pode consumir todo esse conteúdo em 4 ou 10 semanas, você dita o ritmo.
+Você é livre para acessar o [plano de estudos](https://github.com/osnioliveirazup/grupo-plano-de-estudos-design-apis-rest/blob/main/plano-estudos-design-apis-rest.md) completo, existente neste repositório e consumí-lo como achar conveniente e, claro, seguindo seu próprio ritmo de estudos. Tanto é que você pode consumir todo esse conteúdo em 4 ou 10 semanas, você dita o ritmo.
 
 Mas...
 
@@ -20,10 +20,10 @@ Para maximizar suas chances de aprendizado individual e em grupo (afinal, somos 
 
 Como temos quatro semanas de estudos e aprendizado pela frente, com toda atenção do grupo e suporte do monitor(a), nós entendemos que o conteúdo pode ser dividido da seguinte forma:
 
-* Semana 1: [REST e RESTful Web Services]()
-* Semana 2: [HTTP e Documentação]()
-* Semana 3: [Compatibilidade, evolução e desempenho]()
-* Semana 4: [Tópicos de APIs REST]()
+* Semana 1: [REST e RESTful Web Services](https://github.com/osnioliveirazup/grupo-plano-de-estudos-design-apis-rest/blob/main/plano-estudos-design-apis-rest.md#1-rest-e-restful-web-services)
+* Semana 2: [HTTP e Documentação](https://github.com/osnioliveirazup/grupo-plano-de-estudos-design-apis-rest/blob/main/plano-estudos-design-apis-rest.md#2-http-e-documenta%C3%A7%C3%A3o)
+* Semana 3: [Compatibilidade, evolução e desempenho](https://github.com/osnioliveirazup/grupo-plano-de-estudos-design-apis-rest/blob/main/plano-estudos-design-apis-rest.md#3-compatibilidade-evolu%C3%A7%C3%A3o-e-desempenho)
+* Semana 4: [Tópicos de APIs REST](https://github.com/osnioliveirazup/grupo-plano-de-estudos-design-apis-rest/blob/main/plano-estudos-design-apis-rest.md#4-t%C3%B3picos-de-apis-rest)
 
 Por se tratar de uma sugestão, você não necessariamente precisa concluir os tópicos dentro das semanas indicadas, ou seja, não há problema um tópico ser consumido entre as semanas, o importante é manter um bom ritmo de estudos e aprendizado.
 
