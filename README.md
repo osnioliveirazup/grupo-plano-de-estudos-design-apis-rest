@@ -31,7 +31,7 @@ Por se tratar de uma sugestão, você não necessariamente precisa concluir os t
 
 Caso tenha dúvidas, sugestões ou qualquer dificuldade durante sua jornada, você pode recorrer aos seguintes meios de comunicação:
 
-1. [Discussions no GitHub](): priorizamos este fórum de discussão por ele ser aberto e fácil de navegar;
+1. [Discussions no GitHub](https://github.com/osnioliveirazup/grupo-plano-de-estudos-design-apis-rest/discussions): priorizamos este fórum de discussão por ele ser aberto e fácil de navegar;
 2. Chat do Google: usaremos o espaço "[Grupo de estudos: Design de APIs REST]()" para nos mantermos contectados e para tirar dúvidas rápidas ou solução de problemas pontuais;
 3. Chat com monitor(a) do grupo: sinta-se a vontade para falar diretamente com o(a) monitor(a) da turma (osni.oliveira@zup.com.br), basta abrir um bate-papo com ele ou ela.
 
