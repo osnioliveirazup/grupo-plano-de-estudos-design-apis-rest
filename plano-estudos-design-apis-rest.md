@@ -42,6 +42,10 @@ Ao fim deste Plano de Estudos, você terá os conceitos básicos sobre Design de
 * Documentação e OpenAPI
 ---
 
+[Entendendo o Protocolo HTTP](https://github.com/zup-academy/materiais-publicos-treinamentos/blob/main/crud-basico-com-java-hibernate/entendendo-protocolo-http.md) (Yuri Matheus, 2022) (6min, artigo curto)
+
+[Uma introdução sobre o HTTP](https://www.youtube.com/watch?v=SwqnGfFrnDI) (Yuri Matheus, 2022) (15min em 2x, vídeo)
+
 [RFC7231 - Hypertext Transfer Protocol (HTTP/1.1)](https://www.rfc-editor.org/rfc/rfc7231) (IETF, 2014) (2h-4h, especificação)
 
 [Mozilla Developer Network - Hypertext Transfer Protocol (HTTP)](https://developer.mozilla.org/en-US/docs/Web/HTTP) (2023) (documentação)
